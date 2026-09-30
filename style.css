@@ -1,0 +1,166 @@
+nav{
+  width: 100%;
+  height: 100px;
+  background-color: #3E8989;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+h3{
+  margin-right:700px;
+   font-size: 20px; 
+}
+.text{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+   margin-right:300px;
+}
+.text1{
+  border-block-end: 2px solid white;
+  
+  
+}
+.poc{
+  width: 260px;
+  height: 30px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+
+}
+.poc1{
+   width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left:190px;
+  border-radius: 0px 30px 30px 0px;
+ border: none;
+  background-color: #567F7F;
+}
+.poc2{
+  color: #000;
+  position:relative;
+  left: 20px;
+}
+header{
+  width: 100%;
+ height:600px;
+  background-image: url("grooooo.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.mor{
+   width: 150px;
+  height: 30px;
+  background-color:#B4436C;
+  color: white ;
+  border: none;
+  border-radius: 15px;
+  margin: 20px;
+  font-size: 15px;
+
+} 
+.text2{
+  color:  white;
+   font-size: 50px
+}
+.mor1{
+  color:  white;
+   font-size: 30px;
+}
+.aaa{
+  text-align: center;
+  color: #639F9F;
+  margin-top: 60px;
+   font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ flex-direction: column;
+}
+
+main{
+  width: 100%;
+  height: 700px;
+  display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 20px;
+}
+.hhh{
+  width: 50%;
+  height: 40%;
+  text-align-last: end;
+  font-size: 30px;
+}
+.crads{
+    width:100%;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   gap: 30px;
+  padding-top: 100px
+}
+.img1{
+  width: 300px;
+  height: 300px;
+  object-fit: fill;
+padding-top: 100px;
+}
+.fota{
+  text-align: center;
+}
+.p1{
+  font-size: 40px;
+}
+.k1{
+margin-top: 270px;
+font-size: 30px;
+color: #639F9F;
+}
+
+.kkk{
+  width: 100%; 
+  height: 300px; 
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+  gap: 20px; 
+  font-size: 20px; 
+  margin-top: -120px
+}
+footer{
+    width: 100%;
+    height: 200px;
+    background-color: #3E8989;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: white;
+}
+
+.menu{
+    font-size: 20px;
+    margin: 0;
+}
+
+.ALL{
+    margin-top: 50px;
+    font-size: 18px;
+}
